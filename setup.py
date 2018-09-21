@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='harder',
-      version='0.01',
+      version='0.0.1',
       description='Reinforcement Learning Utils',
       url='http://github.com/storborg/funniest',
       author='Jeremi Kaczmarczyk',
