@@ -1,3 +1,4 @@
+import random
 import numpy as np
 from harder.q import Q_base
 
