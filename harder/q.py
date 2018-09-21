@@ -1,4 +1,4 @@
-from gym import GymEnvironment, GymBox
+from harder.gym import GymEnvironment, GymBox
 
 
 class Q_base(object):

@@ -1,5 +1,5 @@
 import numpy as np
-from q import Q_base
+from harder.q import Q_base
 
 
 class Policy(object):
