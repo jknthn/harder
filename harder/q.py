@@ -1,4 +1,5 @@
 from harder.gym import GymEnvironment, GymBox
+import numpy as np
 
 
 class Q_base(object):

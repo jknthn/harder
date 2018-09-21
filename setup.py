@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='harder',
-      version='0.0.4',
+      version='0.0.5',
       description='Reinforcement Learning Utils',
       url='https://github.com/jknthn/harder',
       author='Jeremi Kaczmarczyk',
