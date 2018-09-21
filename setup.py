@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='harder',
-      version='0.0.1',
+      version='0.0.2',
       description='Reinforcement Learning Utils',
       url='https://github.com/jknthn/harder',
       author='Jeremi Kaczmarczyk',
@@ -10,6 +10,6 @@ setup(name='harder',
       license='MIT',
       packages=['harder'],
       install_requires=[
-          'gym', 'nupmy', 'scipy'
+          'gym', 'numpy', 'scipy'
       ],
 zip_safe=False)
