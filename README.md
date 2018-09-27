@@ -21,8 +21,6 @@ While learning and working with different technologies I found myself writing th
 4. `pip install -r requirements.txt`
 5. Play with it
 
-## Contains
-
 ## Citations
 
 It might be far fetched on my end but as I plan to populate this repository with actual implementation both cutting edge and classic I imagine someone could use it. If you end up doing so, mention is appreciated! 🙏
