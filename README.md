@@ -27,7 +27,7 @@ It might be far fetched on my end but as I plan to populate this repository with
 ```
 @misc{harder,
   author = {Jeremi Kaczmarczyk},
-  title = {Pommerman baselines},
+  title = {Harder - RL Utils & Implementations},
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
