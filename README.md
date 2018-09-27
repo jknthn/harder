@@ -1,6 +1,8 @@
+[![PyPI version](https://badge.fury.io/py/harder.svg)](https://badge.fury.io/py/harder)[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Harder
 Reinforcement Learning utilities in Python for improved research, learning and experimentation.
-[![PyPI version](https://badge.fury.io/py/harder.svg)](https://badge.fury.io/py/harder)[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## About
 While learning and working with different technologies I found myself writing the same code over and over. This repository is a way to abstract it away so I can focus on actual work, learning or ideas.
